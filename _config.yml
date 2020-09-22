@@ -2,7 +2,7 @@
 title:               Emilys IDH Blog
 tagline:             'A collection of Digital Humanities thoughts.'
 description:         'This is where I will put all my blog posts.'
-url:                 ''
+url:                 
 baseurl:             http://miller-emily.github.io/
 paginate:            5
 permalink:           pretty
