@@ -2,14 +2,14 @@
 title:               'Emily's IDH Blog'
 tagline:             'A collection of Digital Humanities thoughts.'
 description:         'This is where I'll put all my blog posts.'
-url:                 http://miller-emily.github.io
+url:                 'http://miller-emily.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
-author:
-  name:              Emily Miller
+author: Emily Miller
+  name:              
   url:               
   email:             
 
