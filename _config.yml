@@ -8,8 +8,8 @@ paginate:            5
 permalink:           pretty
 
 # About/contact
-author: Emily Miller
-  name:              
+author: 
+  name: Emily Miller             
   url:               
   email:             
 
