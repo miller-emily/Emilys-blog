@@ -1,7 +1,7 @@
 # Setup
 title:               A Spite Blog
-tagline:             'I cannot believe it was one little letter.'
-description:         'But I ended up really liking Hyde.'
+tagline:             'I cannot believe it was one little letter'
+description:         'But I ended up really liking Hyde'
 url:                 https://miller-emily.github.io/
 baseurl:             ''
 paginate:            5
