@@ -1,8 +1,8 @@
 # Setup
-title:               Emilys IDH Blog
-tagline:             'A collection of Digital Humanities thoughts.'
-description:         'This is where I will put all my blog posts.'
-url:                 http://miller-emily.github.io/
+title:               A Spite Blog
+tagline:             'I cannot believe it was one little letter.'
+description:         'But I ended up really liking Hyde.'
+url:                 https://miller-emily.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
